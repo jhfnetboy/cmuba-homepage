@@ -173,6 +173,16 @@
   align-items: center;
 }
 
+.notionLink {
+  color: white;
+  text-decoration: underline;
+  transition: opacity 0.2s ease;
+}
+
+.notionLink:hover {
+  opacity: 0.8;
+}
+
 .socialLinks {
   display: flex;
   gap: 2rem;

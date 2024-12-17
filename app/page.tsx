@@ -31,7 +31,7 @@ export default function Home() {
         <section className={styles.mission}>
           <h2>Our Mission</h2>
           <div className={styles.missionText}>
-            Improve Asia's Wellbeing with Blockchain
+            Improve Asia Wellbeing with Blockchain
           </div>
         </section>
 
