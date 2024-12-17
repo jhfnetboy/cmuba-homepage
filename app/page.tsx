@@ -42,7 +42,7 @@ export default function Home() {
               <div key={num} className={styles.eventCard}>
                 <div className={styles.imageWrapper}>
                   <Image
-                    src={`/ ${num}.jpg?height=200&width=300&text=Event ${num}`}
+                    src={`/${num}.jpg`}
                     alt={`Event ${num}`}
                     width={300}
                     height={200}
