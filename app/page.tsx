@@ -27,11 +27,16 @@ export default function Home() {
         <section className={styles.slogan}>
           <div className={styles.gradientText}>Learn and Build</div>
         </section>
-
         <section className={styles.mission}>
           <h2>Our Mission</h2>
           <div className={styles.missionText}>
-            Improve Asia Wellbeing with Blockchain
+            Nurturing Talent, Exploring Blockchain
+          </div>
+        </section>
+        <section className={styles.mission}>
+          <h2>Our Vision</h2>
+          <div className={styles.missionText}>
+            Improve Asia Wellbeing
           </div>
         </section>
 
