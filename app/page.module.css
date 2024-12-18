@@ -185,8 +185,8 @@
 
 .socialLinks {
   display: flex;
-  gap: 2rem;
-  margin-top: 1rem;
+  gap: 20px;
+  justify-content: center;
 }
 
 .socialLinks a {

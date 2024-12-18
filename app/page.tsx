@@ -82,6 +82,20 @@ export default function Home() {
           >
             Notion
           </a>
+          <a 
+            href="https://t.me/+7QsxCb-lVs03MWQ9" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            Telegram
+          </a>
+          <a 
+            href="https://line.me/R/ti/g/HoVVwwSLE6" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            Line
+          </a>
         </div>
       </footer>
     </div>
